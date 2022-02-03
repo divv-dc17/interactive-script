@@ -1,4 +1,4 @@
-# Python Activity by Divyansh Chaturvedi of 8th-B
+# Python Activity by Divyansh Chaturvedi
 # # Interactive Script in Python # #
 
 import webbrowser
